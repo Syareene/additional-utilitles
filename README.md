@@ -1,5 +1,5 @@
 # additional-utilitles
-TheSkyBlessingというmc配布マップの二次創作データパック
+[TheSkyBlessing](https://tsb.scriptarts.jp/%E3%83%9B%E3%83%BC%E3%83%A0/download)というmc配布マップの二次創作データパック
 
 ## 概要
 あったらいいよね、っていう機能から創作神器までいろいろなものを追加するデータパック。
